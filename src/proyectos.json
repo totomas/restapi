@@ -1,0 +1,236 @@
+[
+  {
+    "id": "1",
+    "nombre": "Databot",
+    "img_src": [
+      "databot.png"
+    ],
+    "bg_color": "background:#0ca3fd",
+    "url": "databot.cl",
+    "cliente": "Digital Jump",
+    "fecha": "Noviembre 2019",
+    "desc": "Databot es una solución de tipo chatbot que optimiza procesos de interacción humana, integrando un proceso de interpretación de lenguaje natural, entendiendo el contexto de la conversación y dando repuesta oportuna gracias al uso de la inteligencia artificial Watson (IBM). Todo esto, conectado al panel de administración que permite al usuario llevar un seguimiento de las conversaciones, entrenar al bot y ver tus conversiones entre otras funciones.",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/html5.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/css3.png"
+      },
+      {
+        "toolsID": 3,
+        "img_tool": "@/assets/icons/vue.png"
+      },
+      {
+        "toolsID": 4,
+        "img_tool": "@/assets/icons/javascript.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "A Tu Servicio",
+    "img_src": [
+      "atuservicio.png"
+    ],
+    "bg_color": "background:#ff5a16",
+    "url": "atuservicio.cl",
+    "cliente": "Digital Jump",
+    "fecha": "Enero 2019",
+    "desc": "Es un portal que conecta a proveedores de servicio y a solicitantes de estos para que al momento de buscar un servicio sea más fácil de buscar por el tipo de servicio y el lugar en donde se necesita esta.",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/html5.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/css3.png"
+      },
+      {
+        "toolsID": 3,
+        "img_tool": "@/assets/icons/javascript.png"
+      },
+      {
+        "toolsID": 4,
+        "img_tool": "@/assets/icons/bootstrap.png"
+        
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "nombre": "Acomer Admin",
+    "img_src": [
+      "acomeradmin.png"
+    ],
+    "bg_color": "background:#e9d109",
+    "url": "acomeradmin.cl",
+    "cliente": "Digital Jump",
+    "fecha": "Mayo 2019",
+    "desc": "Módulo del administrador para poder gestionar restaurantes, ya sea en sus mesas, productos, garzones, sucursales, entre otras características",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/html5.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/css3.png"
+      },
+      {
+        "toolsID": 3,
+        "img_tool": "@/assets/icons/vue.png"
+      },
+      {
+        "toolsID": 4,
+        "img_tool": "@/assets/icons/javascript.png"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "nombre": "Acomer App",
+    "img_src": [
+      "acomerapp.png"
+    ],
+    "bg_color": "background:#fbb900",
+    "url": "acomerapp.cl",
+    "cliente": "Digital Jump",
+    "fecha": "Mayo 2019",
+    "desc": "Es la digitalización de la carta de locales de comida, maneja el stock de productos en tiempo real, pagos con diversos medios y, le permite una detallada visualizacion de la oferta del local. Para su administración, cuenta con un backoffice que potencia su gestión interna. Mejorando la experiencia de los clientes, lo que permite una mayor fidelizacion.",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/html5.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/css3.png"
+      },
+      {
+        "toolsID": 3,
+        "img_tool": "@/assets/icons/vue.png"
+      },
+      {
+        "toolsID": 4,
+        "img_tool": "@/assets/icons/javascript.png"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "nombre": "UnionX",
+    "img_src": [
+      "unionx.png"
+    ],
+    "bg_color": "background:#f0901d",
+    "url": "unionx.cl",
+    "cliente": "Digital Jump",
+    "fecha": "Febrero 2019",
+    "desc": "Software de estandarización de procesos de compras con proveedores, realizado para estandarizar los procesos internos. Ahora convertido en un SaaS para la venta a empresas del mismo rubro.",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/html5.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/css3.png"
+      },
+      {
+        "toolsID": 3,
+        "img_tool": "@/assets/icons/vue.png"
+      },
+      {
+        "toolsID": 4,
+        "img_tool": "@/assets/icons/javascript.png"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "nombre": "Fundación Multitudes",
+    "img_src": [
+      "multitudes.png"
+    ],
+    "bg_color": "background:#209891",
+    "url": "fundacionmultitudes.org",
+    "cliente": "Digital Jump",
+    "fecha": "Septiembre 2019",
+    "desc": "Una landing page para una fundación donde quiere mostrar como donar, cual es su directorio, un blog y como aducarse en base a su causa.",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/html5.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/css3.png"
+      },
+      {
+        "toolsID": 3,
+        "img_tool": "@/assets/icons/vue.png"
+      },
+      {
+        "toolsID": 4,
+        "img_tool": "@/assets/icons/javascript.png"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "nombre": "Cola e' Flecha",
+    "img_src": [
+      "cf71.png",
+      "cf72.png",
+      "cf73.png",
+      "cf7-cap-1-a.png",
+      "cf7-cd-5.png"
+    ],
+    "bg_color": "background:#fff",
+    "url": "-",
+    "cliente": "Cola e Flecha",
+    "fecha": "Ábril 2020",
+    "desc": "Grupo de cantantes 'Cola e' Flecha' solicitaron una marca gráfica para representarlos pidieron aplicar la marca para futuras prendas de vestir y para su primer Album musical.",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/illustrator.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/photoshop.png"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "nombre": "Exergia",
+    "img_src": [
+      "exergia.png",
+      "exergia-brand1.png",
+      "exergia-car.png",
+      "exergia-papel1.png",
+      "exergia-papel2.png",
+      "exergia-papel3.png"
+    ],
+    "bg_color": "background:#fff",
+    "url": "-",
+    "cliente": "Digital Jump",
+    "fecha": "Agosto 2019",
+    "desc": ".",
+    "tools": [
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/icons/illustrator.png"
+      },
+      {
+        "toolsID": 2,
+        "img_tool": "@/assets/icons/photoshop.png"
+      }
+    ]
+  }
+]
