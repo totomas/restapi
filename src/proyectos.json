@@ -3,7 +3,10 @@
     "id": "1",
     "nombre": "Databot",
     "img_src": [
-      "databot.png"
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/mockups/databot.png"
+      }
     ],
     "bg_color": "background:#0ca3fd",
     "url": "databot.cl",
@@ -33,7 +36,10 @@
     "id": "2",
     "nombre": "A Tu Servicio",
     "img_src": [
-      "atuservicio.png"
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/mockups/atuservicio.png"
+      }
     ],
     "bg_color": "background:#ff5a16",
     "url": "atuservicio.cl",
@@ -56,7 +62,6 @@
       {
         "toolsID": 4,
         "img_tool": "@/assets/icons/bootstrap.png"
-        
       }
     ]
   },
@@ -64,7 +69,10 @@
     "id": "3",
     "nombre": "Acomer Admin",
     "img_src": [
-      "acomeradmin.png"
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/mockups/acomeradmin.png"
+      }
     ],
     "bg_color": "background:#e9d109",
     "url": "acomeradmin.cl",
@@ -94,7 +102,10 @@
     "id": "4",
     "nombre": "Acomer App",
     "img_src": [
-      "acomerapp.png"
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/mockups/acomerapp.png"
+      }
     ],
     "bg_color": "background:#fbb900",
     "url": "acomerapp.cl",
@@ -124,7 +135,10 @@
     "id": "5",
     "nombre": "UnionX",
     "img_src": [
-      "unionx.png"
+      {
+        "toolsID": 1,
+        "img_tool": "@/assets/mockups/unionx.png"
+      }
     ],
     "bg_color": "background:#f0901d",
     "url": "unionx.cl",
@@ -184,11 +198,22 @@
     "id": "7",
     "nombre": "Cola e' Flecha",
     "img_src": [
-      "cf71.png",
-      "cf72.png",
-      "cf73.png",
-      "cf7-cap-1-a.png",
-      "cf7-cd-5.png"
+      {
+        "img_srcID": 1,
+        "img_srcURL": "@/assets/mockups/cf71.png"
+      },{
+        "img_srcID": 2,
+        "img_srcURL": "@/assets/mockups/cf72.png"
+      },{
+        "img_srcID": 3,
+        "img_srcURL": "@/assets/mockups/cf73.png"
+      },{
+        "img_srcID": 4,
+        "img_srcURL": "@/assets/mockups/cf7-cap-1-a.png"
+      },{
+        "img_srcID": 5,
+        "img_srcURL": "@/assets/mockups/cf7-cd-5.png"
+      }
     ],
     "bg_color": "background:#fff",
     "url": "-",
@@ -210,12 +235,30 @@
     "id": "8",
     "nombre": "Exergia",
     "img_src": [
-      "exergia.png",
-      "exergia-brand1.png",
-      "exergia-car.png",
-      "exergia-papel1.png",
-      "exergia-papel2.png",
-      "exergia-papel3.png"
+      {
+        "img_srcID": 1,
+        "img_srcURL": "@/assets/mockups/exergia.png"
+      },
+      {
+        "img_srcID": 2,
+        "img_srcURL": "@/assets/mockups/exergia-brand1.png"
+      },
+      {
+        "img_srcID": 3,
+        "img_srcURL": "@/assets/mockups/exergia-car.png"
+      },
+      {
+        "img_srcID": 4,
+        "img_srcURL": "@/assets/mockups/exergia-papel1.png"
+      },
+      {
+        "img_srcID": 5,
+        "img_srcURL": "@/assets/mockups/exergia-papel2.png"
+      },
+      {
+        "img_srcID": 6,
+        "img_srcURL": "@/assets/mockups/exergia-papel3.png"
+      }
     ],
     "bg_color": "background:#fff",
     "url": "-",
