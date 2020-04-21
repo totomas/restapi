@@ -5,7 +5,7 @@
     "img_src": [
       {
         "img_srcId": 1,
-        "img_srcUrl": "https://raw.githubusercontent.com/totomas/restapi/master/src/assets/mockups/databot.png"
+        "img_srcUrl": "@/assets/mockups/databot.png"
       }
     ],
     "bg_color": "background:#0ca3fd",
