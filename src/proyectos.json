@@ -4,8 +4,8 @@
     "nombre": "Databot",
     "img_src": [
       {
-        "toolsID": 1,
-        "img_tool": "https://raw.githubusercontent.com/totomas/restapi/master/src/assets/mockups/databot.png"
+        "img_srcId": 1,
+        "img_srcUrl": "https://raw.githubusercontent.com/totomas/restapi/master/src/assets/mockups/databot.png"
       }
     ],
     "bg_color": "background:#0ca3fd",
@@ -15,19 +15,19 @@
     "desc": "Databot es una solución de tipo chatbot que optimiza procesos de interacción humana, integrando un proceso de interpretación de lenguaje natural, entendiendo el contexto de la conversación y dando repuesta oportuna gracias al uso de la inteligencia artificial Watson (IBM). Todo esto, conectado al panel de administración que permite al usuario llevar un seguimiento de las conversaciones, entrenar al bot y ver tus conversiones entre otras funciones.",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/html5.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/css3.png"
       },
       {
-        "toolsID": 3,
+        "toolsId": 3,
         "img_tool": "@/assets/icons/vue.png"
       },
       {
-        "toolsID": 4,
+        "toolsId": 4,
         "img_tool": "@/assets/icons/javascript.png"
       }
     ]
@@ -37,8 +37,8 @@
     "nombre": "A Tu Servicio",
     "img_src": [
       {
-        "toolsID": 1,
-        "img_tool": "@/assets/mockups/atuservicio.png"
+        "img_srcId": 1,
+        "img_srcUrl": "@/assets/mockups/atuservicio.png"
       }
     ],
     "bg_color": "background:#ff5a16",
@@ -48,19 +48,19 @@
     "desc": "Es un portal que conecta a proveedores de servicio y a solicitantes de estos para que al momento de buscar un servicio sea más fácil de buscar por el tipo de servicio y el lugar en donde se necesita esta.",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/html5.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/css3.png"
       },
       {
-        "toolsID": 3,
+        "toolsId": 3,
         "img_tool": "@/assets/icons/javascript.png"
       },
       {
-        "toolsID": 4,
+        "toolsId": 4,
         "img_tool": "@/assets/icons/bootstrap.png"
       }
     ]
@@ -70,8 +70,8 @@
     "nombre": "Acomer Admin",
     "img_src": [
       {
-        "toolsID": 1,
-        "img_tool": "@/assets/mockups/acomeradmin.png"
+        "img_srcId": 1,
+        "img_srcUrl": "@/assets/mockups/acomeradmin.png"
       }
     ],
     "bg_color": "background:#e9d109",
@@ -81,19 +81,19 @@
     "desc": "Módulo del administrador para poder gestionar restaurantes, ya sea en sus mesas, productos, garzones, sucursales, entre otras características",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/html5.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/css3.png"
       },
       {
-        "toolsID": 3,
+        "toolsId": 3,
         "img_tool": "@/assets/icons/vue.png"
       },
       {
-        "toolsID": 4,
+        "toolsId": 4,
         "img_tool": "@/assets/icons/javascript.png"
       }
     ]
@@ -103,8 +103,8 @@
     "nombre": "Acomer App",
     "img_src": [
       {
-        "toolsID": 1,
-        "img_tool": "@/assets/mockups/acomerapp.png"
+        "img_srcId": 1,
+        "img_srcUrl": "@/assets/mockups/acomerapp.png"
       }
     ],
     "bg_color": "background:#fbb900",
@@ -114,19 +114,19 @@
     "desc": "Es la digitalización de la carta de locales de comida, maneja el stock de productos en tiempo real, pagos con diversos medios y, le permite una detallada visualizacion de la oferta del local. Para su administración, cuenta con un backoffice que potencia su gestión interna. Mejorando la experiencia de los clientes, lo que permite una mayor fidelizacion.",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/html5.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/css3.png"
       },
       {
-        "toolsID": 3,
+        "toolsId": 3,
         "img_tool": "@/assets/icons/vue.png"
       },
       {
-        "toolsID": 4,
+        "toolsId": 4,
         "img_tool": "@/assets/icons/javascript.png"
       }
     ]
@@ -136,8 +136,8 @@
     "nombre": "UnionX",
     "img_src": [
       {
-        "toolsID": 1,
-        "img_tool": "@/assets/mockups/unionx.png"
+        "img_srcId": 1,
+        "img_srcUrl": "@/assets/mockups/unionx.png"
       }
     ],
     "bg_color": "background:#f0901d",
@@ -147,19 +147,19 @@
     "desc": "Software de estandarización de procesos de compras con proveedores, realizado para estandarizar los procesos internos. Ahora convertido en un SaaS para la venta a empresas del mismo rubro.",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/html5.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/css3.png"
       },
       {
-        "toolsID": 3,
+        "toolsId": 3,
         "img_tool": "@/assets/icons/vue.png"
       },
       {
-        "toolsID": 4,
+        "toolsId": 4,
         "img_tool": "@/assets/icons/javascript.png"
       }
     ]
@@ -177,19 +177,19 @@
     "desc": "Una landing page para una fundación donde quiere mostrar como donar, cual es su directorio, un blog y como aducarse en base a su causa.",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/html5.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/css3.png"
       },
       {
-        "toolsID": 3,
+        "toolsId": 3,
         "img_tool": "@/assets/icons/vue.png"
       },
       {
-        "toolsID": 4,
+        "toolsId": 4,
         "img_tool": "@/assets/icons/javascript.png"
       }
     ]
@@ -199,20 +199,20 @@
     "nombre": "Cola e' Flecha",
     "img_src": [
       {
-        "img_srcID": 1,
-        "img_srcURL": "@/assets/mockups/cf71.png"
+        "img_srcId": 1,
+        "img_srcUrl": "@/assets/mockups/cf71.png"
       },{
-        "img_srcID": 2,
-        "img_srcURL": "@/assets/mockups/cf72.png"
+        "img_srcId": 2,
+        "img_srcUrl": "@/assets/mockups/cf72.png"
       },{
-        "img_srcID": 3,
-        "img_srcURL": "@/assets/mockups/cf73.png"
+        "img_srcId": 3,
+        "img_srcUrl": "@/assets/mockups/cf73.png"
       },{
-        "img_srcID": 4,
-        "img_srcURL": "@/assets/mockups/cf7-cap-1-a.png"
+        "img_srcId": 4,
+        "img_srcUrl": "@/assets/mockups/cf7-cap-1-a.png"
       },{
-        "img_srcID": 5,
-        "img_srcURL": "@/assets/mockups/cf7-cd-5.png"
+        "img_srcId": 5,
+        "img_srcUrl": "@/assets/mockups/cf7-cd-5.png"
       }
     ],
     "bg_color": "background:#fff",
@@ -222,11 +222,11 @@
     "desc": "Grupo de cantantes 'Cola e' Flecha' solicitaron una marca gráfica para representarlos pidieron aplicar la marca para futuras prendas de vestir y para su primer Album musical.",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/illustrator.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/photoshop.png"
       }
     ]
@@ -236,28 +236,28 @@
     "nombre": "Exergia",
     "img_src": [
       {
-        "img_srcID": 1,
-        "img_srcURL": "@/assets/mockups/exergia.png"
+        "img_srcId": 1,
+        "img_srcUrl": "@/assets/mockups/exergia.png"
       },
       {
-        "img_srcID": 2,
-        "img_srcURL": "@/assets/mockups/exergia-brand1.png"
+        "img_srcId": 2,
+        "img_srcUrl": "@/assets/mockups/exergia-brand1.png"
       },
       {
-        "img_srcID": 3,
-        "img_srcURL": "@/assets/mockups/exergia-car.png"
+        "img_srcId": 3,
+        "img_srcUrl": "@/assets/mockups/exergia-car.png"
       },
       {
-        "img_srcID": 4,
-        "img_srcURL": "@/assets/mockups/exergia-papel1.png"
+        "img_srcId": 4,
+        "img_srcUrl": "@/assets/mockups/exergia-papel1.png"
       },
       {
-        "img_srcID": 5,
-        "img_srcURL": "@/assets/mockups/exergia-papel2.png"
+        "img_srcId": 5,
+        "img_srcUrl": "@/assets/mockups/exergia-papel2.png"
       },
       {
-        "img_srcID": 6,
-        "img_srcURL": "@/assets/mockups/exergia-papel3.png"
+        "img_srcId": 6,
+        "img_srcUrl": "@/assets/mockups/exergia-papel3.png"
       }
     ],
     "bg_color": "background:#fff",
@@ -267,11 +267,11 @@
     "desc": ".",
     "tools": [
       {
-        "toolsID": 1,
+        "toolsId": 1,
         "img_tool": "@/assets/icons/illustrator.png"
       },
       {
-        "toolsID": 2,
+        "toolsId": 2,
         "img_tool": "@/assets/icons/photoshop.png"
       }
     ]
